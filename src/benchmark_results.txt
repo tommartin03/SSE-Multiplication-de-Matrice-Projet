@@ -1,0 +1,5 @@
+Naive: 61.461768 s
+Moins naive: 4.903781 s
+SSE avec blocs (4): 9.600032 s
+SSE avec blocs (8): 4.004027 s
+SSE avec blocs (16): 2.666485 s
